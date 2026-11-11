@@ -1,0 +1,6 @@
+{
+  "name": "KantongKu – Smart Pocket Money Management",
+  "description": "Aplikasi pengelolaan uang saku pintar untuk pelajar dan mahasiswa dengan pendampingan orang tua, evaluasi keuangan otomatis, target tabungan, dan KantongKu AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
